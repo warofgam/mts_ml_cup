@@ -1,0 +1,9 @@
+coles:
+0.760+2*0.46
+coles_freeze:
+0.765+2*0.46
+freeze_finetune(small downstream dataset):
+0.776+2*0.46
+coles_finetune(small downstream dataset):
+0.765+2*0.46
+coles_supervised for non-pretrained task is not good.
